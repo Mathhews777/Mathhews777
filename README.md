@@ -1,3 +1,4 @@
+<div align="center">
 <h1 align="left">Greetings bro👋</h1>
 
 ###
@@ -43,3 +44,4 @@
 <img align="centre" height="150" src="https://media0.giphy.com/media/maNB0qAiRVAty/giphy.gif"  />
 
 ### 
+</div>
