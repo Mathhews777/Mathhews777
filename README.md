@@ -34,7 +34,7 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/2109px-Kubernetes_logo_without_workmark.svg.png" height="40" alt="Kubernetes" />
   <img width="12" />
-  <img src="https://static-00.iconduck.com/assets.00/openshift-icon-2048x2048-djhfgyv0.png" height="40" alt="OpenShift" />
+<!--   <img src="https://static-00.iconduck.com/assets.00/openshift-icon-2048x2048-djhfgyv0.png" height="40" alt="OpenShift" /> -->
 </div>
 
 ###
